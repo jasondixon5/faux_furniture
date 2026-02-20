@@ -37,6 +37,9 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+
+	"faux_furniture.apps.accounts",
+	"faux_furniture.apps.core",
 ]
 
 MIDDLEWARE = [
