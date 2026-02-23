@@ -3,3 +3,4 @@ faux_furniture/__pycache__/
 faux_furniture/settings/__pycache__/
 .DS_STORE
 .DS_Store
+*.pyc
